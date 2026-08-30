@@ -4,8 +4,8 @@ The EV rental platform website for Green Drift — built for Riders, Franchisee 
 Advertisers, and last-mile delivery companies.
 
 Built with **Next.js 14 (App Router)**, **TypeScript**, **Tailwind CSS**, and **Framer Motion**.
-Visual direction takes cues from Ather Energy's full-bleed hero/product-carousel pattern and
-Zypp Electric's interactive rider-savings calculator and stat-driven trust sections — rebuilt
+Visual direction takes cues from Green Drift Energy's full-bleed hero/product-carousel pattern and
+Green Drift Electric's interactive rider-savings calculator and stat-driven trust sections — rebuilt
 from scratch in Green Drift's own palette and voice, not copied assets or code.
 
 ---
